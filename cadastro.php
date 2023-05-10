@@ -72,7 +72,7 @@
     </style>
 
     
-    <!-- Custom styles for this template -->
+   
     <link href="cadastro.css" rel="stylesheet">
   </head>
    
