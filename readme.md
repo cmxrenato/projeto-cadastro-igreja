@@ -5,4 +5,4 @@ membros para uma igreja.
 
 Para iniciar, você deve acessar o arquivo 'cadastro.php'.
 
-Faça um bom uso! E que Deus o abençoe !
+Faça um bom uso! E que Deus vos abençoe !
