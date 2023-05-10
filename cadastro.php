@@ -72,7 +72,7 @@
     </style>
 
     
-   
+    <!-- Custom styles for this template -->
     <link href="cadastro.css" rel="stylesheet">
   </head>
    
@@ -101,7 +101,7 @@
     <h1 class="h3 mb-3 fw-normal">Cadastro para novos membros:</h1>
 
     <div class="form-floating">
-      <input type="text" class="form-control"  placeholder = "Nome" name="nome">
+      <input type="text" class="form-control"  placeholder = "Nome" name="nome" required>
       <label for="floatingInput">Nome completo:</label>
     </div>
     <div class="form-floating">
@@ -115,7 +115,7 @@
       <label for="floatingEmail">Email:</label>
     </div>
     <div class="form-floating">
-      <input type="date" class="form-control"  placeholder="Data de Nascimento" name ="data_de_nascimento">
+      <input type="date" class="form-control"  placeholder="Data de Nascimento" name ="data_de_nascimento" required>
       <label for="floatingInput">Data de nascimento:</label>
     </div>
     
